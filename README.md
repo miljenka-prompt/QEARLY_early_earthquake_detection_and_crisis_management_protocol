@@ -131,6 +131,24 @@ class QEiTModule:
 ⚠️ QEARLY is experimental and does not replace official alert systems.
 ⚠️ QEARLY je eksperimentalan sustav i ne zamjenjuje službene alarme.
 
+## 🤝 Disclaimer / Izjava o namjeri
+
+**EN 🇺🇸 — Disclaimer & Public-Interest Note**
+
+QEARLY is an open-source, public-interest initiative developed with the intention of supporting and extending existing early earthquake detection and crisis communication systems — especially in high-stress, real-time environments.  
+It is offered freely, without licensing costs or proprietary constraints, in the hope that institutions, researchers, and crisis operators may adapt or build upon it.
+
+> Life-saving infrastructure should be radically collaborative and empathy-driven.
+
+**HR 🇭🇷 — Izjava o namjeri (open-source za opće dobro)**
+
+QEARLY je open-source inicijativa razvijena s ciljem da kao podrška i proširenje nadopuni postojeće sustave za ranu detekciju potresa i krizno komuniciranje — osobito u stresnim real-time situacijama.  
+Projekt je besplatan, bez ikakvih licencnih ograničenja, s idejom da ga institucije, istraživači i operateri mogu slobodno ispitati, prilagoditi ili nadograditi.
+
+> Infrastruktura koja spašava živote trebala bi biti otvorena i pokretana empatijom.
+
+
+
 Use only in supervised, non-critical environments.
 Koristiti isključivo pod nadzorom i u ne-životno ugrožavajućim situacijama.
 
