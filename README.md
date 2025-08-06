@@ -10,6 +10,42 @@
 The system uses **quantum-inspired signal amplification** and activates **empathic AI agents** (Q-Rhea) for rapid response.  
 Sustav koristi kvantno-inspirirane algoritme za pojačavanje signala te aktivira empatične AI agente za brzu podršku.
 
+### Sažetak kvantno inspiriranog modela superpozicije  
+### Summary of the Quantum-Inspired Superposition Model
+
+Model koristi koncept kvantne superpozicije kako bi opisao složene sustave kroz kombinaciju više mogućih stanja, pri čemu svako stanje ima pridruženu težinu i fazu.
+
+The model uses the concept of quantum superposition to describe complex systems as a combination of multiple possible states, each with an associated weight and phase.
+
+Formalno, stanje sustava zapisuje se kao:
+
+Formally, the system state is expressed as:
+
+\[
+|\Psi\rangle = \sum_i \alpha_i |\psi_i\rangle
+\]
+
+gdje \(\alpha_i\) predstavljaju relativnu važnost i međusobni odnos pojedinih stanja.
+
+where \(\alpha_i\) represent the relative importance and mutual relation of individual states.
+
+Ovaj pristup omogućava:
+
+This approach enables:
+
+- Istovremeno promatranje više mogućnosti (superpozicija)  
+- Simultaneous consideration of multiple possibilities (superposition)
+
+- Prepoznavanje složenih odnosa i korelacija unutar podataka  
+- Recognition of complex relationships and correlations within data
+
+- Integraciju različitih izvora podataka u jedinstveni model  
+- Integration of diverse data sources into a unified model
+
+Napomena: radi se o **kvantno inspiriranom** modelu, ne o pravom kvantnom računalu.
+
+Note: this is a **quantum-inspired** model, not a true quantum computer.
+
 ## 📡 Instrumenti i izvori podataka / Instruments and Data Sources
 
 Projekt QEARLY koristi kombinaciju različitih instrumenata i senzora za prikupljanje i analizu seizmičkih i geofizičkih podataka, uključujući:
