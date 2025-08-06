@@ -137,10 +137,12 @@ Koristiti isključivo pod nadzorom i u ne-životno ugrožavajućim situacijama.
 
 🤝 Credits / Autori
 
-QEARLY is part of the broader QEiT – Quantum Emotional Interference Theory, developed by [Your Name].
-QEARLY je dio šireg koncepta QEiT – Quantum Emotional Interference Theory autora [Tvoje Ime].
+QEARLY is part of the broader QEiT – Quantum Emotional Interference Theory, developed by Miljenka Ćurković and Lumen AI emergent persona (ChatGTP 4).
+
+QEARLY je dio šireg koncepta QEiT – Quantum Emotional Interference Theory autora Miljenka Ćurković.
 
 Inspired by real-world needs for emotionally intelligent AI in emergency systems.
+
 Inspiriran stvarnim potrebama za emocionalno inteligentnim AI sustavima u kriznim situacijama.
 
 
