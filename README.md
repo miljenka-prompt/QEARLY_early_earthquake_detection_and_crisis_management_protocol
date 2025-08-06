@@ -10,6 +10,29 @@
 The system uses **quantum-inspired signal amplification** and activates **empathic AI agents** (Q-Rhea) for rapid response.  
 Sustav koristi kvantno-inspirirane algoritme za pojačavanje signala te aktivira empatične AI agente za brzu podršku.
 
+## 📡 Instrumenti i izvori podataka / Instruments and Data Sources
+
+Projekt QEARLY koristi kombinaciju različitih instrumenata i senzora za prikupljanje i analizu seizmičkih i geofizičkih podataka, uključujući:
+
+- Klasični seizmografi (analogni i digitalni) / Classical seismographs (analog and digital)  
+- Akcelerometri / Accelerometers  
+- Eksperimentalni kvantni senzori (npr. atomi u optičkim zamkama) / Experimental quantum sensors (e.g., atoms in optical traps)  
+- IoT senzori za niskopražne signale u urbanim mrežama / IoT sensors for low-threshold signals in urban networks  
+- Anotirani podaci korisnika u kriznim situacijama (s emocionalnim taggingom) / Annotated user data in crisis situations (with emotional tagging)
+
+Ovaj pristup omogućuje integraciju konvencionalnih seizmoloških metoda s naprednim tehnologijama i umjetnom inteligencijom za što preciznije i brže otkrivanje te analizu seizmičkih događaja.
+
+
+The QEARLY project utilizes a combination of different instruments and sensors to collect and analyze seismic and geophysical data, including:
+
+- Classical seismographs (analog and digital)  
+- Accelerometers  
+- Experimental quantum sensors (e.g., atoms in optical traps)  
+- IoT sensors for low-threshold signals in urban networks  
+- Annotated user data in crisis situations (with emotional tagging)
+
+This approach enables the integration of conventional seismological methods with advanced technologies and artificial intelligence for more accurate and timely detection and analysis of seismic events.
+
 
 ## ⚙️ Core Components / Glavne Komponente
 
